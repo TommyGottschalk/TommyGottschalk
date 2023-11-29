@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TommyGottschalk, an MIS student from Omaha Nebraska.
+- 👋 Hi, I’m @TommyGottschalk, an MIS student from Nebraska.
 - 👀 I’m interested in ... tech, music, video games, art, and anime.
 - 🌱 I’m currently learning ... how to code (JAVA, SQL, Python)
     -I also dabble in HTML and CSS
