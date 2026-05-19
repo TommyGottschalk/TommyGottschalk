@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @TommyGottschalk, an MIS student from Nebraska.
-- 👀 I’m interested in ... tech, music, video games, art, and anime.
-- 🌱 I’m currently learning ... how to code (JAVA, SQL, Python)
-    -I also dabble in HTML and CSS
-- 💞️ I’m looking to collaborate on ... anything and everything
-- 📫 How to reach me ... tjgottschalk22@gmail.com
+- Hi, I’m @TommyGottschalk,
+- I’m interested in ... tech, chess, history, and weight-training.
+- I’m currently learning about Cybersecurity and how to become a white-hat hacker 
+- I’m looking to collaborate on ... anything and everything
+- How to reach me ... tjgottschalk22@gmail.com
 
 <!---
 TommyGottschalk/TommyGottschalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
